@@ -11,3 +11,7 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 - Diego Hernandez 
 - Luis Tarango
 - Angelo Tellez
+
+## Seguridad
+
+SecureCampus será desarrollado siguiendo practicas de secure SDLC.
