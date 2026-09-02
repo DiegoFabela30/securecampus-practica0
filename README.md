@@ -11,6 +11,7 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 - Diego Hernandez 
 - Luis Tarango
 - Angelo Tellez
+- Ana Tellez
 
 ## Seguridad
 
